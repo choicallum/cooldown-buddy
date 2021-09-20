@@ -15,7 +15,7 @@ Then, press Ctrl + \` to open the terminal. Input "pip install requests".
 From there, click the Run button in the top left!
 
 # Tech Stack Used
-Python, Riot RESTful API, Visual Studio Code
+Python, Riot RESTful API, Data Dragon (JSON Database), Visual Studio Code
 
 # Features to Add
 Make the application easier to install, and easier to use (GUI)
