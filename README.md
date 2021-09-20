@@ -1,1 +1,1 @@
-# cooldowns
+# Cooldown Buddy
