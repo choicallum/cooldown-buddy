@@ -2,7 +2,7 @@ import requests
 import pprint
 
 pre_key = "?api_key="
-api_key = "RGAPI-19a7cb4e-7868-4c49-8fd8-57218b5ada70"
+api_key = #CHECK REPO FOR STEPS TO GET YOUR OWN API_KEY
 
 api_base_url = "https://na1.api.riotgames.com"
 summonerName = input("Enter the summoner name of the in-game player: ")
