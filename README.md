@@ -17,7 +17,7 @@ From there, click the Run button in the top left!
 # Tech Stack Used
 Python, Riot RESTful API, Visual Studio Code
 
-# Features to add
+# Features to Add
 Make the application easier to install, and easier to use (GUI)
 Visual interface (Pictures of abilities instead of Q W E R)
 Demo Mode
