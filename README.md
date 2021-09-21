@@ -12,6 +12,12 @@ Import the cd_grabber.py by clicking "Open file" and finding where the cd_grabbe
 
 Then, press Ctrl + \` to open the terminal. Input "pip install requests".
 
+Furthermore, for version 0.1, you must create and input your own API key (this is an unfortunate side effect of the current design of the product, this will be improved in version 0.2)
+
+This is done by accessing https://developer.riotgames.com/ and creating a Riot Account. Then, go back to https://developer.riotgames.com/ and scroll down to the Development API Key and generate a new API key.
+
+Input this API key into line 5 of cd_grabber.py.
+
 From there, click the Run button in the top left!
 
 # Tech Stack Used
